@@ -1,4 +1,4 @@
-Adjusted for updated methods.
+Archieved: Ozon API methods changed.
 
 This version supports both FBO and FBS
 This app works directly with ozon seller api.
